@@ -11,9 +11,9 @@ from setuptools import find_packages, setup
 
 # PROJECT SPECIFIC
 
-NAME = "emcee"
+NAME = "emcee3"
 PACKAGES = find_packages(where="src")
-META_PATH = os.path.join("src", "emcee", "__init__.py")
+META_PATH = os.path.join("src", "emcee3", "__init__.py")
 CLASSIFIERS = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
